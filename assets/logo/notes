@@ -1,0 +1,4 @@
+1. I produced the logo in musescore
+2. I exported the score to a pdf
+3. I converted the pdf to a png with `pdftoppm -r 600 logo.pdf logo -png`
+4. I cropped the png in gimp
